@@ -13,4 +13,6 @@
 
 ***both bold and italic type of font styles*** 
 
-[Google](https://www.google.com/)
+[Google](https://www.google.com/) 
+
+![Mr.Bean](https://wallpaperaccess.com/full/2076345.png)
